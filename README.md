@@ -1,4 +1,4 @@
-# Cursor Reset Tool
+# Cursor Reset Tool v1.0.0
 Created by Riad developer
 
 ## ⚠️ Note
